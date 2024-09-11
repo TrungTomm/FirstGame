@@ -8,8 +8,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "phaser": "^3.85.1"
-  }
+  "description": ""
 }
